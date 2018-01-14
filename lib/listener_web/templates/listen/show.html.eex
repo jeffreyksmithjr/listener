@@ -1,0 +1,3 @@
+<div class="jumbotron">
+  <h2>Sentiment score is <%= @sentiment %>!</h2>
+</div>
